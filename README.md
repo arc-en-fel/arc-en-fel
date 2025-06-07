@@ -1,4 +1,3 @@
-# deepak-bhaskaran
 <h1>Hi 👋, I'm DEEPAK BHASKARAN</h1>
 <p>just a developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
